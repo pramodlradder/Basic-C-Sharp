@@ -1,0 +1,7 @@
+G:\c sharp projects\BasicCSharp\BasicCSharp\bin\Debug\BasicCSharp.exe.config
+G:\c sharp projects\BasicCSharp\BasicCSharp\bin\Debug\BasicCSharp.exe
+G:\c sharp projects\BasicCSharp\BasicCSharp\bin\Debug\BasicCSharp.pdb
+G:\c sharp projects\BasicCSharp\BasicCSharp\obj\Debug\BasicCSharp.csprojAssemblyReference.cache
+G:\c sharp projects\BasicCSharp\BasicCSharp\obj\Debug\BasicCSharp.csproj.CoreCompileInputs.cache
+G:\c sharp projects\BasicCSharp\BasicCSharp\obj\Debug\BasicCSharp.exe
+G:\c sharp projects\BasicCSharp\BasicCSharp\obj\Debug\BasicCSharp.pdb
