@@ -10,11 +10,11 @@ namespace BasicCSharp
     {
         static void Main(string[] args)
         {
-            Int32 a = 30;
-            Int32 b = 20;
-            Int32 c;
-            c = a + b;
-            Console.WriteLine("{0}+{1}={2}",a,b,c);
+            Int32 a = 10;
+            String name = "Ram";
+            Double marks = 90;
+            Boolean status = true;
+            Console.WriteLine(name+" scored "+marks+" in maths.This is "+status);
             Console.ReadKey();
         }
     }
