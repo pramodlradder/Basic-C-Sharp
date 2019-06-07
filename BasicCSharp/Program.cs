@@ -10,7 +10,11 @@ namespace BasicCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Int32 a = 30;
+            Int32 b = 20;
+            Int32 c;
+            c = a + b;
+            Console.WriteLine("{0}+{1}={2}",a,b,c);
             Console.ReadKey();
         }
     }
