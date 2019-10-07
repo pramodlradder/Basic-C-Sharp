@@ -11,7 +11,7 @@ class Circle
     double radius;
     double area;
     public const double Pi = 3.14159;
-    //Int32 circumference;
+    
 
     Circle()
     {
